@@ -3,5 +3,5 @@
 - Hello, I'm Satyam!
 - Hello, I'm Rishika!
 
-Demo Branch
+Rishi Branch
 - Hello, I'm a bot.
